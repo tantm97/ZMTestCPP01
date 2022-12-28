@@ -19,9 +19,12 @@ Note:
 3. The visualize data is in data/visualize.
 
 Output (test on Dell Inspiron 15 7000, i7 8th, MX250):
+1. Execute time:
 ```
 Elapsed time in milliseconds [Test] : 50 ms
-
+```
+2. Connected component coordinates. All bounding boxes should be exported in format (top left y, top left x, height, width):
+```
 (11, 365, 81, 71) (38, 248, 86, 100) (79, 23, 60, 74) (104, 451, 94, 153) 
 (0, 125, 61, 96) (30, 401, 90, 91) (218, 33, 70, 85) (263, 0, 59, 30) (403, 477, 51, 51) (419, 457, 38, 21) 
 (46, 229, 47, 47) (95, 274, 19, 37) (254, 569, 59, 71) (352, 360, 98, 98) (384, 548, 91, 78) 
