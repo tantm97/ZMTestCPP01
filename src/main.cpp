@@ -11,7 +11,7 @@ int main() {
     const size_t width = 800, height = 600;
 
     //open file
-    std::ifstream infile("data/data.bin");
+    std::ifstream infile("../data/data.bin");
 
     // get length of file
     infile.seekg(0, std::ios::end);
@@ -26,7 +26,7 @@ int main() {
 
     ConnectedComponentAnalysis cca;
 
-    std::ofstream output("data/results.txt");
+    std::ofstream output("../data/results.txt");
     ELAPSED_TIME("Test",
         for(int n = 0; n < n_images; n++){
             std::vector<bbox> boxes = cca.BlobDetection(buffer+n*height*width, result+n*height*width, height, width);
