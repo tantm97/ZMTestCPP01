@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/cca/cca.h
+iostream
+-
+stack
+-
+vector
+-
+
+/home/tan/workspace/git/zetamotion/ZMTestCPP01/src/cca.cpp
+cca/cca.h
+/home/tan/workspace/git/zetamotion/ZMTestCPP01/src/cca/cca.h
+
+/home/tan/workspace/git/zetamotion/ZMTestCPP01/src/main.cpp
+iostream
+-
+fstream
+-
+chrono
+-
+cca/cca.h
+/home/tan/workspace/git/zetamotion/ZMTestCPP01/src/cca/cca.h
+

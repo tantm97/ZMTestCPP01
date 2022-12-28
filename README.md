@@ -8,7 +8,7 @@ make -j 4
 
 Note:
 1. Copy the data to data/data.bin.
-2. The result in data/results.txt.
+2. The result is in data/results.txt.
 
 Output:
 ```
