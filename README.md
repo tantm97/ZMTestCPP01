@@ -1,4 +1,6 @@
 # Solution
+Using Depth First Search to explore the connected component.
+
 Run:
 ```
 mkdir build && cmake ..
@@ -6,11 +8,17 @@ make -j 4
 ./blobDetection
 ```
 
+Visualize result:
+```
+python3 visualize.py
+```
+
 Note:
 1. Copy the data to data/data.bin.
-2. The result is in data/results.txt.
+2. The blobDetection result is in data/results.txt.
+3. The visualize data is in data/visualize.
 
-Output:
+Output (test on Dell Inspiron 15 7000, i7 8th, MX250):
 ```
 Elapsed time in milliseconds [Test] : 50 ms
 
