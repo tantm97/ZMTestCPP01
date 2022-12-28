@@ -39,7 +39,8 @@ Visualize Result:
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="0" src="data/visualize/0.png">  0.png |<img width="1604" alt="1" src="data/visualize/1.png">  1.png |<img width="1604" alt="2" src="data/visualize/2.png">  2.png |
 |<img width="1604" alt="3" src="data/visualize/3.png">  3.png |<img width="1604" alt="4" src="data/visualize/4.png">  4.png |<img width="1604" alt="5" src="data/visualize/5.png">  5.png |
-|<img width="1604" alt="6" src="data/visualize/6.png">  6.png |<img width="1604" alt="7" src="data/visualize/7.png">  7.png |<img width="1604" alt="8" src="data/visualize/8.png">  8.png | |<img width="1604" alt="9" src="data/visualize/9.png">  9.png |
+|<img width="1604" alt="6" src="data/visualize/6.png">  6.png |<img width="1604" alt="7" src="data/visualize/7.png">  7.png |<img width="1604" alt="8" src="data/visualize/8.png">  8.png |
+|<img width="1604" alt="9" src="data/visualize/9.png">  9.png |
 
 # Zeta Motion LTD  - Technical Challenge for Software Engineer (CPP001)
 
